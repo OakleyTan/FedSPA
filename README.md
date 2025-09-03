@@ -7,7 +7,7 @@ Federated Graph Learning (FGL) has emerged as a solution to address real-world p
 ## Citation
 
 ``` latex
-@inproceedings{tan2025fedspa,
+@inproceedings{fedspa_cvpr25,
   title={FedSPA: Generalizable Federated Graph Learning under Homophily Heterogeneity},
   author={Tan, Zihan and Wan, Guancheng and Huang, Wenke and Li, He and Zhang, Guibin and Yang, Carl and Ye, Mang},
   booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
